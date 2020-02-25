@@ -1,0 +1,540 @@
+2019-09-04 14:03:32 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-04 14:08:13 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-04 14:12:41 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-04 14:13:57 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-04 14:14:06 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-04 14:32:31 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-04 14:32:40 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-04 15:53:22 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-04 15:53:31 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-04 16:48:45 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-04 16:50:16 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-04 17:23:28 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-04 17:23:41 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-04 17:27:49 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-04 17:28:04 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-04 18:23:42 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-04 18:24:00 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-04 19:29:44 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-04 19:29:56 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-04 20:36:12 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-04 20:36:21 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-04 20:43:31 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-04 20:43:43 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-04 21:01:51 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-04 21:24:17 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-04 21:27:53 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-04 21:29:56 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-04 21:31:45 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-04 21:32:05 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-04 22:03:32 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-04 22:03:51 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-04 22:08:44 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-04 22:09:03 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-04 22:20:41 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-04 22:20:56 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-04 22:27:07 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-04 22:27:34 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-04 22:43:30 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-04 22:43:49 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-05 08:53:50 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-05 08:54:01 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-05 11:03:06 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-05 11:08:48 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-05 11:14:57 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-05 11:19:24 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-05 11:24:39 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-05 11:24:51 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-05 11:48:03 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-05 11:48:14 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-05 13:38:33 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-05 13:38:46 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-05 14:40:09 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-05 14:40:19 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-05 14:45:09 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-05 14:45:20 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-05 15:09:55 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-05 15:10:20 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-05 15:23:42 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-05 15:24:20 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-05 15:27:45 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-05 15:28:01 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-05 17:30:02 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-05 17:30:35 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-05 18:25:12 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-05 18:25:23 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-05 19:21:59 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-05 19:22:19 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-05 19:28:01 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-05 19:28:16 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-05 19:31:53 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-05 19:32:14 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-05 19:50:58 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-05 19:51:19 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-05 20:02:49 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-05 20:03:04 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-05 20:06:53 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-05 20:07:19 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-05 20:12:10 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-05 20:12:31 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-05 20:14:58 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-05 20:15:10 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-05 20:21:02 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-05 20:21:16 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-05 20:23:22 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-05 20:23:50 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-05 20:34:50 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-05 20:35:04 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-05 20:35:48 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-05 20:36:03 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-05 21:00:42 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-05 21:00:57 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-06 08:49:31 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-06 08:49:59 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-06 10:05:15 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-06 10:05:49 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-06 10:20:50 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-06 10:21:04 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-06 10:56:37 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-06 10:56:54 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-06 11:11:10 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-06 11:11:30 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-06 11:16:50 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-06 11:17:15 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-06 11:26:05 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-06 11:26:26 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-06 11:32:00 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-06 11:32:23 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-06 11:34:58 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-06 11:35:27 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-06 13:43:24 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-06 13:44:06 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-06 16:36:38 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-06 16:37:01 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-06 16:54:36 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-06 16:54:51 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-06 19:12:09 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-06 19:12:44 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-06 19:18:47 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-06 19:22:24 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-06 19:24:04 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-06 21:44:20 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-06 21:44:32 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-06 22:06:41 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-06 22:12:32 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-06 22:12:44 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-06 22:51:53 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-06 22:52:12 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-06 22:58:54 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-06 22:59:18 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-07 14:17:58 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-07 14:18:08 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-07 16:41:35 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-07 16:41:50 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-07 17:15:18 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-07 17:15:31 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-07 17:28:31 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-07 17:28:54 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-07 17:31:48 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-07 17:31:57 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-07 17:44:06 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-07 17:47:23 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-07 17:51:28 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-07 17:53:03 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-07 17:53:23 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-07 23:15:52 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-07 23:24:42 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-08 08:45:50 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-08 08:46:17 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-08 08:49:02 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-08 08:49:20 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-08 08:49:51 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-08 08:50:10 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-08 10:59:05 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-08 10:59:28 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-08 11:09:18 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-08 11:09:33 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-08 12:06:18 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-08 12:06:28 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-08 13:54:45 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-08 13:55:07 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-08 14:02:46 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-08 14:03:15 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-08 16:54:31 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-08 16:54:41 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-08 16:55:23 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-08 16:55:31 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-08 17:00:27 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-08 17:00:38 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-08 17:34:25 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-08 17:34:45 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-08 18:24:13 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-08 18:24:42 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-08 18:33:02 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-08 18:33:17 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-08 19:55:31 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-08 19:56:01 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-08 20:30:33 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-08 20:30:46 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-08 20:32:53 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-08 20:33:00 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-08 21:22:48 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-08 21:23:16 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-08 21:25:32 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-08 21:25:46 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-08 21:50:40 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-08 21:51:11 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-08 21:52:36 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-08 21:52:53 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-08 22:01:14 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-08 22:01:48 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-08 22:20:19 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-08 22:20:36 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-09 10:16:10 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-09 10:17:06 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-09 10:49:24 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-09 11:02:12 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-09 11:04:16 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-09 11:08:59 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-09 11:09:21 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-09 11:22:55 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-09 11:23:40 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-09 11:31:22 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-09 11:31:57 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-09 12:00:35 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-09 12:00:52 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-09 12:04:19 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-09 12:04:46 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-09 13:44:04 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-09 13:44:38 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-09 14:48:11 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-09 14:48:27 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-09 17:02:01 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-09 17:02:18 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-09 17:39:13 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-09 17:39:57 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-09 17:48:45 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-09 17:49:08 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-09 19:00:52 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-09 19:01:12 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-09 19:02:57 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-09 19:03:54 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-09 20:04:19 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-09 20:05:08 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-09 20:26:28 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-09 20:26:46 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-09 20:41:26 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-09 20:42:08 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-09 21:39:06 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-09 21:39:33 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-09 21:45:28 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-09 21:45:53 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-09 21:47:40 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-09 21:47:58 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-09 21:56:13 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-09 21:56:39 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-09 21:59:51 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-09 22:00:14 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-09 22:00:37 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-09 22:05:03 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-09 22:05:17 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-09 22:41:37 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-09 22:41:53 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-09 23:22:14 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-09 23:22:33 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-09 23:25:37 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-09 23:26:06 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-10 08:56:27 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-10 08:56:50 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-10 11:17:05 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-10 11:17:52 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-10 11:24:19 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-10 11:24:53 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-10 11:27:16 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-10 11:27:33 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-10 11:29:43 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-10 11:29:53 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-10 17:31:17 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-10 17:31:40 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-10 17:38:29 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-10 17:39:31 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-10 18:27:06 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-10 18:27:46 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-10 18:31:02 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-10 18:31:19 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-10 18:33:09 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-10 18:33:21 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-10 18:35:00 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-10 18:35:22 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-10 18:51:14 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-10 18:51:51 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-10 20:18:00 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-10 20:18:18 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-10 21:03:05 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-10 21:03:33 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-10 22:02:33 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-10 22:02:49 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-10 22:06:27 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-10 22:06:46 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-10 22:14:36 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-10 22:15:02 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-10 22:58:53 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-10 22:59:08 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-10 23:03:59 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-10 23:04:28 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-11 08:52:47 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-11 08:53:13 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-11 09:50:50 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-11 09:51:15 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-11 09:56:23 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-11 09:56:42 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-11 10:03:20 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-11 10:03:50 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-11 11:03:07 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-11 11:03:25 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-11 11:24:47 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-11 11:25:14 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-11 11:29:26 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-11 11:29:44 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-11 11:35:22 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-11 11:35:50 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-11 11:42:45 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-11 11:43:05 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-11 12:06:06 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-11 12:06:40 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-11 13:46:06 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-11 13:46:31 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-11 13:49:06 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-11 13:49:43 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-11 15:02:25 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-11 15:02:37 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-11 16:31:19 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-11 16:31:38 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-11 17:18:41 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-11 17:19:00 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-11 17:23:06 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-11 17:23:31 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-11 18:42:17 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-11 18:42:39 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-11 18:45:05 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-11 18:45:31 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-11 18:51:06 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-11 18:51:23 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-11 19:58:55 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-11 19:59:10 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-11 20:18:44 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-11 20:19:05 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-11 20:31:27 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-11 20:31:44 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-11 20:41:54 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-11 20:42:14 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-11 23:21:52 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-11 23:22:29 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-12 10:04:46 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-12 10:04:57 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-12 11:51:17 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-12 11:51:50 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-12 13:51:35 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-12 13:59:18 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-12 14:33:40 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-12 14:34:37 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-12 14:52:47 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-12 14:53:22 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-12 15:21:03 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-12 15:21:28 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-12 15:23:13 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-12 15:23:33 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-12 15:55:42 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-12 15:55:59 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-12 16:34:58 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-12 16:35:34 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-12 18:52:19 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-12 18:52:51 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-12 19:06:48 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-12 19:07:02 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-12 19:43:35 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-12 19:44:11 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-12 19:49:33 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-12 19:49:56 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-12 19:57:58 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-12 20:03:07 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-12 20:03:49 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-12 20:11:43 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-12 20:12:27 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-12 20:30:10 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-12 20:30:22 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-12 20:53:25 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-12 20:53:47 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-12 22:17:48 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-12 22:18:50 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-14 20:05:53 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-14 20:06:22 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-14 20:26:03 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-14 20:26:30 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-15 14:27:09 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-15 14:27:49 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-15 14:45:32 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-15 14:46:22 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-15 15:00:46 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-15 15:01:08 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-15 15:34:01 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-15 15:34:52 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-15 15:37:10 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-15 15:37:37 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-15 15:42:20 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-15 15:42:50 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-15 16:13:36 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-15 16:13:53 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-15 16:19:00 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-15 16:19:22 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-15 16:21:21 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-15 16:21:46 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-15 16:36:04 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-15 16:36:32 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-16 08:44:02 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-16 08:44:33 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-16 11:09:46 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-16 11:10:02 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-16 11:49:45 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-16 11:50:25 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-16 11:54:36 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-16 11:56:23 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-16 13:43:20 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-16 13:44:01 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-16 14:48:06 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-16 14:48:22 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-16 15:45:32 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-16 15:45:53 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-16 16:21:45 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-16 16:22:00 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-16 16:31:57 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-16 16:32:11 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-16 17:23:13 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-16 17:23:44 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-16 17:37:27 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-16 17:37:47 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-16 17:40:40 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-16 17:40:59 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-16 17:43:43 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-16 17:44:00 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-16 18:32:25 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-16 18:32:37 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-16 18:35:35 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-16 18:35:49 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-16 19:14:45 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-16 19:15:15 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-16 19:31:23 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-16 19:31:47 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-16 20:14:08 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-16 20:14:28 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-16 20:39:03 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-16 20:39:24 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-16 20:49:50 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-16 20:50:51 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-16 21:40:13 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-16 21:40:41 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-16 21:46:33 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-16 21:47:25 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-16 21:48:51 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-16 21:49:28 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-16 21:54:05 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-16 21:54:24 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-16 22:06:52 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-16 22:07:51 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-16 22:35:39 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-16 22:37:11 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-16 22:37:26 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-17 08:40:14 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-17 08:40:42 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-17 11:45:30 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-17 11:46:58 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-17 13:51:22 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-17 13:53:16 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-17 14:28:49 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-17 14:29:00 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-17 15:54:46 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-17 15:55:41 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-17 15:57:23 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-17 15:57:41 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-17 16:00:10 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-17 16:00:31 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-17 16:04:45 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-17 16:05:00 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-17 20:33:05 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-17 20:34:43 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-17 20:35:01 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-17 20:40:43 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-17 20:41:11 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-17 20:43:31 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-17 20:43:51 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-17 21:12:10 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-17 21:12:38 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-17 21:48:46 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-17 21:49:54 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-18 08:43:13 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-18 08:43:53 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-18 14:19:28 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-18 14:21:19 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-18 14:24:03 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-18 14:24:29 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-18 14:31:31 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-18 14:31:50 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-18 14:34:31 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-18 14:35:01 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-18 14:45:37 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-18 14:46:10 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-18 15:19:16 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-18 15:19:33 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-18 17:13:10 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-18 17:13:31 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-18 17:33:49 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-18 17:34:16 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-18 17:50:24 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-18 17:50:46 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-18 17:55:58 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-18 17:56:18 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-18 19:28:02 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-18 19:28:56 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-18 20:02:10 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-18 20:02:33 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-18 20:57:12 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-20 19:58:59 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-20 19:59:31 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-20 20:01:30 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-20 20:01:47 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-20 20:21:17 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-20 20:21:56 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-20 20:24:50 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-20 20:25:09 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-20 20:28:47 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-20 20:29:02 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-20 20:37:43 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-20 20:38:10 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-22 14:50:09 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-22 14:50:41 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-22 15:15:41 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-22 15:16:38 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-22 15:57:45 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-22 15:59:40 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-22 16:07:32 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-22 16:08:22 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-22 16:33:09 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-22 16:33:35 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-22 17:01:22 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-22 17:03:44 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-22 17:36:12 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-22 17:36:58 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-22 18:09:27 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-22 18:09:45 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-09-22 18:11:03 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-09-22 18:12:15 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-10-19 13:50:03 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-10-19 13:51:21 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-10-19 13:55:29 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-10-19 13:55:53 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-10-19 13:58:16 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-10-19 13:58:27 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2019-10-19 14:05:24 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2019-10-19 14:05:37 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
+2020-02-11 19:26:34 com.alibaba.druid.pool.DruidAbstractDataSource.setMaxIdle(DruidAbstractDataSource.java:935) DruidAbstractDataSource.java ERROR maxIdle is deprecated
+2020-02-11 19:27:08 com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:669) DruidDataSource.java INFO {dataSource-1} inited
